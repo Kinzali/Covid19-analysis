@@ -18,12 +18,6 @@ The COVID-19 dataset used in this analysis is sourced from the Johns Hopkins Uni
 7. **Documentation and Reporting:** A comprehensive report is created summarizing the analysis process, findings, and conclusions.
 8. **Deployment (Optional):** The analysis can be deployed as a web application or interactive dashboard for further exploration.
 
-**Instructions:**
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the Python script `covid_data_analysis.py` to execute the analysis.
-4. View the generated visualizations and insights in the output.
-5. Refer to the detailed documentation provided in the report for a deeper understanding of the analysis.
 
 **Dependencies:**
 - pandas
@@ -35,9 +29,6 @@ kinza
 
 **Date:**
 29 Feb.2024
-
-**References:**
-Certainly! Here are some example URLs you can include in your README file:
 
 **References:**
 - Johns Hopkins University's Center for Systems Science and Engineering (JHU CSSE) COVID-19 Dashboard: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
